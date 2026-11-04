@@ -1,5 +1,5 @@
 body {
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-color: #e7d9cb;
     color: #2f3e46;
     margin: 22px;
@@ -7,22 +7,20 @@ body {
 }
 
 h1 {
-    color: #2a4d40;
-    font-size: 36px;
-    margin-bottom: 20px;
-    border-bottom: 2px solid #6b8e78;
-    padding-bottom: 5px;
+    color: #0b38a8;
+    font-size: 44px;
+    margin-bottom: 10px;
 }
 
 h2 {
     color: #2a4d40;
-    font-size: 26px;
+    font-size: 28px;
     margin-top: 25px;
     margin-bottom: 10px;
 }
 
 p {
-    color: #000000;
+    color: #2f3e46;
     font-size: 17px;
     max-width: 800px;
 }
@@ -31,7 +29,7 @@ ul {
     list-style-type: circle;
     padding-left: 25px;
     margin-top: 10px;
-    color: #000000;
+    color: #2f3e46;
 }
 
 li {
@@ -55,12 +53,12 @@ img {
 }
 
 a {
-    color: #3a5b80;
+    color: #0b38a8;
     text-decoration: none;
     transition: color 0.3s ease;
 }
 
 a:hover {
-    color: #6b8e78;
+    color: #2a4d40;
     text-decoration: underline;
 }
