@@ -25,12 +25,6 @@ p {
     max-width: 800px;
 }
 
-p2 {
-    color: #fcf9f2;
-    font-size: 17px;
-    max-width: 800px;
-}
-
 ul {
     list-style-type: circle;
     padding-left: 25px;
@@ -67,4 +61,8 @@ a {
 a:hover {
     color: #2a4d40;
     text-decoration: underline;
+}
+
+.p2 {
+    color: #fcf9f2;
 }
