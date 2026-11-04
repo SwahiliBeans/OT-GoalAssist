@@ -71,3 +71,9 @@ a:hover {
 .p2 {
     color: #fcf9f2;
 }
+
+.logo{
+    height: auto;
+    width: auto;
+    object-fit: contain;
+}
