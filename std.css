@@ -88,4 +88,5 @@ a:hover {
     height: 220px;
     width: 180px;
     margin: 0 0 10px 20px;
+    object-position: center bottom;
 }
