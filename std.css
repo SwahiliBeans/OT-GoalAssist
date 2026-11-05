@@ -77,3 +77,11 @@ a:hover {
     width: auto;
     object-fit: contain;
 }
+section {
+border-bottom: 1px solid #d4c4b6;
+}
+.portrait {
+    border-radius: 50%;
+    float: right;
+    object: cover;
+}
