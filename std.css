@@ -84,4 +84,6 @@ border-bottom: 1px solid #d4c4b6;
     border-radius: 50%;
     float: right;
     object: cover;
+    height: 100px;
+    width: auto;
 }
