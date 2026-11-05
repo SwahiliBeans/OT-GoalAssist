@@ -47,7 +47,10 @@ body > * {
 }
 
 section {
-    padding-bottom: 15px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #d4c4b6; 
+    overflow: hidden; 
 }
 
 img {
@@ -77,14 +80,13 @@ a:hover {
     width: auto;
     object-fit: contain;
 }
-section {
-border-bottom: 1px solid #d4c4b6;
-}
+
 .portrait {
     border-radius: 50%;
     float: right;
     object: cover;
-    height: 100px;
-    width: auto;
+    height: 220px;
+    width: 180px;
     margin: 0 0 10px 20px;
+    object-position: center bottom;
 }
