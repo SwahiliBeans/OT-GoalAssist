@@ -90,3 +90,14 @@ a:hover {
     margin: 0 0 10px 20px;
     object-position: center bottom;
 }
+
+.references {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 12pt;
+    line-height: 2;
+}
+.references p {
+    padding-left: 0.5in;
+    text-indent: -0.5in;
+    margin: 0;
+}
